@@ -6,6 +6,6 @@ Integration.
 ## TODO
 
 * [ ] Setup/Install Dependencies.
-* [ ]
-* [ ]
-* [ ]
+* [ ] Start TDD
+* [ ] Main Logic
+* [ ] Setup Travis CI
